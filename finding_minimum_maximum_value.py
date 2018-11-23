@@ -20,5 +20,8 @@ while (i < size) :
         
     else i = i + 1
 
-print(maximum_value, maximun_index)
-print(minumum_value, minumum_index)
+print '최댓값:',  maximum_value;
+print '최댓값의 index:', maximun_index;
+
+print '최솟값:',  minimum_value;
+print '최솟값의 index:', minimun_index;
