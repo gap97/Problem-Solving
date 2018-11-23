@@ -1,7 +1,5 @@
 # Problem-Solving
 
-# Verilog
-
 ---
 ## 0. 설명
 python을 이용하여 다양한 문제를 해결하는 코드입니다.
